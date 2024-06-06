@@ -2,6 +2,14 @@
 
 ### Verbringen Sie Ihre Zeit damit, den Backend-Code des Projekts zu überprüfen und programmbezogene Fragen zu erforschen:
 
+## Einrichten und Überprüfen des servers:
+
+### Server-Abhängigkeiten installieren:
+
+- Navigieren Sie zum server-Ordner in Ihrem Projektverzeichnis.
+- Führen Sie npm install aus, um die erforderlichen Pakete für die Client-Anwendung zu installieren.
+- Fügen Sie die .env-Datei zu den Serverabhängigkeiten mit den benötigten Variablen hinzu.
+  
 ## Backend-Code überprüfen:
 
 - Untersuchen Sie die Backend-Codebasis gründlich.
@@ -16,7 +24,7 @@
 ## Testen des Backends mit der Thunder VS-Erweiterung:
 
 ### Backend testen:
-
+- add your .env with the needed environment variables
 - Verwenden Sie die Thunder VS Code-Erweiterung, um das Backend zu testen.
 - Versuchen Sie, einen neuen Benutzer mit einem JWT-Schlüssel und einem Passwort zu erstellen.
 - Überprüfen Sie die Funktionalität und Sicherheit der Benutzererstellung.
